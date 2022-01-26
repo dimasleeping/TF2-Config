@@ -5,3 +5,8 @@ My personal configuration for Team Fortress 2 in 2022. The first appearance on t
 1. Go to the root folder of the game. 
 
 2. Copy the files from the archive and paste them into the "tf" folder.
+
+# Launch Options
+```
+-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -dxlevel 91 -console
+```
