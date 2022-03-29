@@ -1,4 +1,4 @@
-// Default Medic HUD
+// No-box Medic HUD
 
 "Resource/UI/HudMedicCharge.res"
 {
@@ -134,11 +134,11 @@
 		"ControlName"	"ContinuousProgressBar"
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
-		"xpos"			"0"
-		"ypos"			"0"
+		"xpos"			"c-60"
+		"ypos"			"38"
 		"zpos"			"1"
-		"wide"			"101"
-		"tall"			"32"
+		"wide"			"120"
+		"tall"			"6"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -148,10 +148,6 @@
 		"brighttext"	"0"
 		"fgcolor_override"		"Ubercharge Meter"
 		"bgcolor_override"		"0 0 0 100"
-
-		"pin_to_sibling"	"ChargeLabel"
-		"pin_corner_to_sibling"	"PIN_TOPLEFT"
-		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 	"ChargeMeter1"
 	{

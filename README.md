@@ -8,5 +8,5 @@ My personal configuration for Team Fortress 2 in 2022. The first appearance on t
 
 # Launch Options
 ```
--novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -dxlevel 91 -console
+-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime -dxlevel 81 -console
 ```
